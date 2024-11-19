@@ -109,10 +109,10 @@ iv)	Creating the new test cell view
 
 ## For Transient Analysis Settings and Output
  
- 
  ![image](https://github.com/user-attachments/assets/92d14f32-8ba5-4fed-978a-38c360b8e305)
 
  ![image](https://github.com/user-attachments/assets/b86fd87f-7a66-47f5-bc26-2b5f4cb5679d)
+ 
 
 ## For DC Analysis Settings and Output
 
@@ -120,12 +120,6 @@ iv)	Creating the new test cell view
 
 ![image](https://github.com/user-attachments/assets/e6b8b6c7-378f-449e-82a5-72286f238b02)
 
- 
-
-
-
-
- 
 
 ## Results:
 1.	Successfully designed the CMOS inverter schematic using Cadence EDA tools.
